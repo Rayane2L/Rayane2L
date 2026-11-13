@@ -6,13 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+Rayane%2C+Bachelor+2%40Epitech+Nice;%24+cat+focus.txt+%E2%86%92+pentest+%7C+CTF+%7C+blue+team;%24+uptime+%E2%86%92+toujours+en+train+d'apprendre" />
 </p>
 
-<!-- Badges à décommenter quand les liens seront prêts
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tryhackme.com/p/TON-PSEUDO-THM"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-  <a href="https://app.hackthebox.com/profile/TON-ID-HTB"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" /></a>
+  <a href="https://www.linkedin.com/in/rayane-lali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
--->
 
 ---
 
@@ -21,27 +17,49 @@
 ```yaml
 name: Rayane LALI
 school: Epitech Nice — Bachelor (2e année)
-focus: [pentest, CTF, sécurité réseau, analyse SOC]
-playing_on: [TryHackMe, HackTheBox]
-learning: [Active Directory, web exploitation, scripting Python offensif]
+focus: [pentest, CTF, détection & réponse, sécurité réseau]
+playing_on: [HackTheBox, CTF Epitech]
+learning: [Active Directory, web exploitation, sécurité des LLM]
 fun_fact: je construis aussi des robots Arduino 🤖
 ```
 
-### `> ls ./projets --featured`
+### `> ls ./cyber --featured`
 
 | Projet | Description | Stack |
 |---|---|---|
-| [doc-tryhackme](https://github.com/Rayane2L/doc-tryhackme) | Mes notes et write-ups TryHackMe | Markdown |
+| [exegol-ctf-writeups](https://github.com/Rayane2L/exegol-ctf-writeups) | Write-ups de 12 machines Boot2Root du CTF Exegol (Epitech) : reconnaissance, exploitation, élévation de privilèges | Exegol · Nmap · Gobuster · Python |
+| [owasp-juice-shop-writeups](https://github.com/Rayane2L/owasp-juice-shop-writeups) | 45 challenges OWASP Juice Shop : Broken Access Control, Injection, XSS, XXE, JWT… avec remédiation | Burp Suite |
 | [hackthebox](https://github.com/Rayane2L/hackthebox) | Ma progression sur HackTheBox | Markdown |
+
+### `> ls ./epitech`
+
+| Projet | Ce que j'ai fait | Stack |
+|---|---|---|
+| **SentinelX** | Supervision et détection d'attaques sur une app de tickets. Mon rôle : volet cyber (Wazuh, règles de détection, plans d'attaque, runbooks, qualification d'alertes) | Wazuh · Docker · Prometheus · Grafana |
+| **Codename** | Durcissement d'un agent LLM et boîte à outils de prompt injection | Ollama · Python |
+| **Jobryx** | Moteur de recherche d'emploi tech. Mon rôle : backend et sécurité (JWT, RBAC, base de données) | TypeScript · Node.js · Docker |
+| **Persona** | Newsletter personnalisée pilotée par un chatbot | n8n · IA générative |
+| **TARDIS** | Analyse et prédiction des retards SNCF (Random Forest) + dashboard | Python · pandas · scikit-learn |
+| **Mog Games** | Launcher et jeux 2D en Java orienté objet | Java |
+| **eTodo** | Application fullstack de gestion de tâches | Node.js · Express · MySQL · Docker |
+| **ELIZA** | Bot Discord coach fitness propulsé par un LLM local | Python · Ollama |
+| **Bookworm** | Moteur NLP qui transforme des livres en fiches pour éditeurs | Python |
+
+<sub>Les repos Epitech sont privés : je peux les présenter en entretien.</sub>
+
+### `> ls ./perso`
+
+| Projet | Description | Stack |
+|---|---|---|
 | [instagram-followback-checker](https://github.com/Rayane2L/instagram-followback-checker) | Extension navigateur 100 % locale, aucune donnée envoyée (privacy by design) | JavaScript |
 
 ### `> stack --list`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,c,js,html,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,python,c,java,js,ts,nodejs,mysql,docker,git,grafana,prometheus&theme=dark" />
 </p>
 
-**Outils sécu :** Nmap · Burp Suite · Wireshark · Metasploit · Gobuster · John / Hashcat
+**Outils sécu :** Nmap · Burp Suite · Gobuster · Wireshark · Metasploit · John the Ripper · Wazuh · Exegol
 
 ### `> git log --graph`
 
