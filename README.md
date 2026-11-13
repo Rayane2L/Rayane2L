@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9c&height=180&section=header&text=Rayane%20LALI&fontColor=e6edf3&fontSize=48&fontAlignY=38&desc=Cybersecurity%20student%20%40%20Epitech%20Nice&descAlignY=58&descSize=16" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=560&lines=%24+whoami+%E2%86%92+Rayane%2C+Bachelor+2%40Epitech+Nice;%24+cat+focus.txt+%E2%86%92+pentest+%7C+CTF+%7C+blue+team;%24+uptime+%E2%86%92+toujours+en+train+d'apprendre" />
+  <img src="banner.png" alt="Rayane LALI - étudiant en cybersécurité @ Epitech Nice" width="100%" />
 </p>
 
 <p align="center">
