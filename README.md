@@ -34,7 +34,6 @@ fun_fact: je construis aussi des robots Arduino 🤖
 | [doc-tryhackme](https://github.com/Rayane2L/doc-tryhackme) | Mes notes et write-ups TryHackMe | Markdown |
 | [hackthebox](https://github.com/Rayane2L/hackthebox) | Ma progression sur HackTheBox | Markdown |
 | [instagram-followback-checker](https://github.com/Rayane2L/instagram-followback-checker) | Extension navigateur 100 % locale, aucune donnée envoyée (privacy by design) | JavaScript |
-| [arduinomeccano](https://github.com/Rayane2L/arduinomeccano) | Interface front-end pour piloter mon robot Arduino | Front-end |
 
 ### `> stack --list`
 
