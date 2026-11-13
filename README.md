@@ -44,16 +44,7 @@ fun_fact: je construis aussi des robots Arduino 🤖
 
 **Outils sécu :** Nmap · Burp Suite · Wireshark · Metasploit · Gobuster · John / Hashcat
 
-### `> stats`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rayane2L&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane2L&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayane2L&bg_color=0d1117&color=c9d1d9&line=00ff9c&point=e6edf3&area=true&hide_border=true" />
-</p>
+### `> git log --graph`
 
 <p align="center">
   <picture>
