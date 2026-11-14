@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Rayane LALI - étudiant en cybersécurité @ Epitech Nice" width="100%" />
+  <img src="banner2.png" alt="Rayane LALI - étudiant en cybersécurité @ Epitech Nice" width="100%" />
 </p>
 
 <p align="center">
