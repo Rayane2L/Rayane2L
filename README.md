@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rayane2l.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rayane-lali"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
